@@ -1,0 +1,1 @@
+{"H": 376, "detections": [{"class_str": "person", "score": 1.0, "class_no": 1, "box_coords": [0.263, 0.229, 0.581, 0.628]}, {"class_str": "skis", "score": 0.053, "class_no": 31, "box_coords": [0.56, 0.21, 0.63, 0.674]}, {"class_str": "snowboard", "score": 0.993, "class_no": 32, "box_coords": [0.56, 0.208, 0.629, 0.691]}], "image_name": "COCO_train2014_000000323153.jpg", "W": 500}

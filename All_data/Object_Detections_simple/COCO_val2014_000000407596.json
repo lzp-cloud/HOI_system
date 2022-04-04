@@ -1,0 +1,1 @@
+{"H": 1276, "W": 1702, "image_name": "COCO_val2014_000000407596.jpg", "detections": [{"score": 0.9932, "box_coords": [0.6039, 0.4905, 0.7903, 0.643], "class_str": "bicycle", "class_no": 2}, {"score": 0.9546, "box_coords": [0.4887, 0.5051, 0.7442, 0.6225], "class_str": "person", "class_no": 1}]}

@@ -1,0 +1,1 @@
+{"H": 427, "detections": [{"class_str": "person", "score": 1.0, "class_no": 1, "box_coords": [0.122, 0.558, 0.868, 0.952]}, {"class_str": "frisbee", "score": 0.998, "class_no": 30, "box_coords": [0.059, 0.322, 0.105, 0.434]}], "image_name": "COCO_train2014_000000039664.jpg", "W": 640}

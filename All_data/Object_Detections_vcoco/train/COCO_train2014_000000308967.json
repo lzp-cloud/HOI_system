@@ -1,0 +1,1 @@
+{"H": 640, "detections": [{"class_str": "person", "score": 1.0, "class_no": 1, "box_coords": [0.144, 0.206, 0.862, 0.835]}, {"class_str": "tennis racket", "score": 1.0, "class_no": 39, "box_coords": [0.407, 0.421, 0.536, 0.772]}], "image_name": "COCO_train2014_000000308967.jpg", "W": 427}

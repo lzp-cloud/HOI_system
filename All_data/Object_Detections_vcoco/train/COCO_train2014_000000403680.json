@@ -1,0 +1,1 @@
+{"H": 640, "detections": [{"class_str": "person", "score": 1.0, "class_no": 1, "box_coords": [0.063, 0.606, 0.398, 0.916]}, {"class_str": "baseball glove", "score": 0.993, "class_no": 36, "box_coords": [0.132, 0.61, 0.189, 0.664]}], "image_name": "COCO_train2014_000000403680.jpg", "W": 427}

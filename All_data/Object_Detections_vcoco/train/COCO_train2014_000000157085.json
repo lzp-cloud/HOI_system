@@ -1,0 +1,1 @@
+{"H": 288, "detections": [{"class_str": "person", "score": 1.0, "class_no": 1, "box_coords": [0.29, 0.586, 0.73, 0.707]}, {"class_str": "bed", "score": 0.086, "class_no": 60, "box_coords": [0.279, 0.006, 0.962, 0.787]}], "image_name": "COCO_train2014_000000157085.jpg", "W": 640}
